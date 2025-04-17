@@ -1,0 +1,13 @@
+<layoutItems>
+                <behavior>Edit</behavior>
+                <field>Accelerate_with_Workday_Package__c</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Package_Pricing_Metric__c</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Sequence__c</field>
+            </layoutItems>
+            <layoutItems>
